@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:slackwisebuttongroup:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../slackwisebuttongroup/build/.transforms/03194efb3141faa3ff8a36ac38f74553/slackwisebuttongroup/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../slackwisebuttongroup/build/.transforms/03194efb3141faa3ff8a36ac38f74553/slackwisebuttongroup/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JarvanMo:ExoVideoView:2.1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/6c4e82f2351c47d25411000d5e7b5530/ExoVideoView-2.1.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/6c4e82f2351c47d25411000d5e7b5530/ExoVideoView-2.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/6c4e82f2351c47d25411000d5e7b5530/ExoVideoView-2.1.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.github.JarvanMo/ExoVideoView/2.1.6/12c08ae61902a85f403d5f8998e445ce1257e2c/ExoVideoView-2.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

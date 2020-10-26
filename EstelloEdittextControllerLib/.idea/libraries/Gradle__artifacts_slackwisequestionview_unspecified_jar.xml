@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:slackwisequestionview:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../slackwisequestionview/build/.transforms/2f0fa26705dfdc3834279ea58f13d92a/slackwisequestionview-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../slackwisequestionview/build/.transforms/2f0fa26705dfdc3834279ea58f13d92a/slackwisequestionview-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

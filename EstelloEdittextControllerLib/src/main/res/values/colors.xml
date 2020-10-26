@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#4a154b</color>
+    <color name="colorPrimaryDark">#4a154b</color>
+    <color name="colorAccent">#4a154b</color>
+    <color name="colorSecondary">#4a154b</color>
+    <color name="White">#ffffff</color>
+    <color name="grey">#60000000</color>
+    <color name="transparent">#30000000</color>
+    <color name="black">#000000</color>
+    <color name="hintcolor">#c8c8c8</color>
+    <color name="next_color">#C81B63</color>
+    <color name="this_week_color">#FACE6719</color>
+    <color name="proposed_color">#FA0FA1B4</color>
+    <color name="pinkypinky">#fa2d65</color>
+    <color name="yellow">#FF9800</color>
+    <color name="dark_text_color">#3C3A3A</color>
+    <color name="light_text_color">#7A7A7A</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:ignore="PrivateResource">#c8c8c8</color>
+    <color name="hashtag_color">#FF2196F3</color>
+    <color name="mention_color">#fa2d65</color>
+    <color name="light_primary">#FDF9FD</color>
+    <color name="green">#FF1ED585</color>
+    <color name="toolbar_light_primary">#F8E7DFFD</color>
+    <color name="semi_light_primary">#284A154B</color>
+    <color name="white_transparency">#D9FFFFFF</color>
+    <color name="blue">#465ED3</color>
+    <color name="trans_blue">#A44571B6</color>
+</resources>
+

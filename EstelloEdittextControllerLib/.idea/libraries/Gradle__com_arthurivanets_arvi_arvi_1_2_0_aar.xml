@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arthurivanets.arvi:arvi:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/e3860003db63187f5b3687079f2ab58f/arvi-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/e3860003db63187f5b3687079f2ab58f/arvi-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/e3860003db63187f5b3687079f2ab58f/arvi-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.arthurivanets.arvi/arvi/1.2.0/50f4f3f79a79b9fea2ed97c76ff341931fccbc64/arvi-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.arthurivanets.arvi/arvi/1.2.0/3eda1bec5c53a74c78d56538f14d3ea66075e1d2/arvi-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

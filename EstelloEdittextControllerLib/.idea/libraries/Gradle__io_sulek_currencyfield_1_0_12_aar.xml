@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sulek:currencyfield:1.0.12@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/be1f8300ac4ccb9cc472bac1d2400c32/currencyfield-1.0.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/be1f8300ac4ccb9cc472bac1d2400c32/currencyfield-1.0.12/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/io.sulek/currencyfield/1.0.12/151ac78b8ac08c5119d5ae0444b9730cf530c4af/currencyfield-1.0.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/io.sulek/currencyfield/1.0.12/ee33868faabd2a4413652ce32560ff3e571a320e/currencyfield-1.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

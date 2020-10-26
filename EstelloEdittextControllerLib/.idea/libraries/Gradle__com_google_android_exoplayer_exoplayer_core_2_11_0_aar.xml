@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-core:2.11.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/1b455827e079583cb8db60e54e6b2a88/exoplayer-core-2.11.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/1b455827e079583cb8db60e54e6b2a88/exoplayer-core-2.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/1b455827e079583cb8db60e54e6b2a88/exoplayer-core-2.11.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.11.0/cfdaef3752468cf3b929889d4d6b0943e1ac60cb/exoplayer-core-2.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.11.0/c809976a39121946e33e80e5673f738db9e371ce/exoplayer-core-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

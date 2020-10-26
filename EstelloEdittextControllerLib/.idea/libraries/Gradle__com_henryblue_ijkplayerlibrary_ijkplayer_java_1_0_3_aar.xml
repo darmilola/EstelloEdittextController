@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.henryblue.ijkplayerlibrary:ijkplayer-java:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/e80fa30eb668943e243dd6a60e38b503/ijkplayer-java-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/e80fa30eb668943e243dd6a60e38b503/ijkplayer-java-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.henryblue.ijkplayerlibrary/ijkplayer-java/1.0.3/33e102355561807196d0efc1fc0bdf153945fed5/ijkplayer-java-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.henryblue.ijkplayerlibrary/ijkplayer-java/1.0.3/89a7edbeed8cba22e5adb9321c2974dcdc7cc1df/ijkplayer-java-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

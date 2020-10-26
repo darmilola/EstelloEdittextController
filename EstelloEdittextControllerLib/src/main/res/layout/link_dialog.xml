@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/White">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Link"
+        android:id="@+id/linkTitle"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/opensansreg"
+        android:textColor="@color/black"
+        android:gravity="center|left"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/linkTextLayout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:errorEnabled="true"
+        style="@style/sign_up_field"
+        app:errorTextAppearance="@style/ErrorText">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/linkText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Text"
+            android:gravity="bottom"
+            android:fontFamily="@font/opensansreg"
+            android:inputType="text"
+            android:textColorHint="@color/light_text_color"
+            android:background="#00000000"
+            android:textSize="16dp"
+            android:textColor="@color/black" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/linkUrlLayout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:errorEnabled="true"
+        style="@style/sign_up_field"
+        app:errorTextAppearance="@style/ErrorText">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/linkURL"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Link"
+            android:gravity="bottom"
+            android:fontFamily="@font/opensansreg"
+            android:inputType="textWebEmailAddress"
+            android:textColorHint="@color/light_text_color"
+            android:background="#00000000"
+            android:textSize="16dp"
+            android:textColor="@color/black" />
+    </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/linkRemove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:fontFamily="@font/opensansreg"
+            android:gravity="center"
+            android:text="REMOVE"
+            android:layout_marginLeft="20dp"
+            android:textColor="#FF1759"
+            android:textSize="13dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#9B0AB4"
+            android:textSize="13dp"
+            android:id="@+id/linkCancel"
+            android:layout_marginRight="30dp"
+            android:fontFamily="@font/opensansreg"
+            android:layout_gravity="center|right"
+            android:text="CANCEL" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#9B0AB4"
+            android:textSize="13dp"
+            android:id="@+id/linksave"
+            android:fontFamily="@font/opensansreg"
+            android:layout_gravity="center|right"
+            android:text="SAVE" />
+    </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: tm.charlie.androidlib:expandable-textview:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/a8ccd17c325b85a043e91f74be8fa6dd/jetified-expandable-textview-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/a8ccd17c325b85a043e91f74be8fa6dd/jetified-expandable-textview-2.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/tm.charlie.androidlib/expandable-textview/2.0.2/eef061fb04ea5f5ba4fc7329ecde32a22d8e9f6b/expandable-textview-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

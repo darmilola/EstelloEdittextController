@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/editor_scrollview">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:background="@drawable/circle_primary_background"
+                android:id="@+id/bold_action"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/ic_action_bold"/>
+
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:tint="@color/black"
+                android:id="@+id/italics_action"
+                android:src="@drawable/ic_action_italics"/>
+
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:tint="#000000"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/transparent_background"
+                android:id="@+id/strike_action"
+                android:src="@drawable/ic_action_strike"/>
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:tint="#000000"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/transparent_background"
+                android:id="@+id/link_action"
+                android:src="@drawable/ic_action_link"/>
+
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:tint="#000000"
+                android:background="@drawable/transparent_background"
+                android:id="@+id/bullet_action"
+                android:src="@drawable/ic_action_bullet"/>
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:tint="#000000"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/transparent_background"
+                android:id="@+id/numbers_action"
+                android:src="@drawable/ic_action_numbers"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>

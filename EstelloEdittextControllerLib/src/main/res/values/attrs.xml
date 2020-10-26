@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ctr">
+
+        <attr name="setHorizontalScrollHeight" format="dimension|reference"/>
+        <attr name="setHorizontalScrollMarginTop" format="dimension|reference"/>
+        <attr name="setHorizontalScrollMarginBottom" format="dimension|reference"/>
+        <attr name="setHorizontalScrollMarginLeft" format="dimension|reference"/>
+        <attr name="setHorizontalScrollMarginRight" format="dimension|reference"/>
+        <attr name="setBoldActionSrc" format="reference"/>
+        <attr name="setItalicizeActionSrc" format="reference"/>
+        <attr name="setStrikeActionSrc" format="reference"/>
+        <attr name="setLinkActionSrc" format="reference"/>
+        <attr name="setBulletActionSrc" format="reference"/>
+        <attr name="setNumberActionSrc" format="reference"/>
+        <attr name="setSelectedActionBackground" format="reference"/>
+        <attr name="setUnselectedActionBackground" format="reference"/>
+        <attr name="setActionButtonPadding" format="dimension|reference"/>
+        <attr name="setActionButtonSize" format="dimension|reference"/>
+        <attr name="setActionButtonSrcTint" format="color|reference"/>
+        <attr name="setActionSelectedButtonSrcTint" format="color|reference"/>
+        <attr name="socialFlag">
+                    <flag name="hashtag" value="1" />
+                    <flag name="mention" value="2" />
+                    <flag name="hyperlink" value="4" />
+                </attr>
+                <attr name="hashtagColor" format="color" />
+                <attr name="mentionColor" format="color" />
+                <attr name="hyperlinkColor" format="color" />
+
+</declare-styleable>
+</resources>

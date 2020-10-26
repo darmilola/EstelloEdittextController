@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ramijemli.percentagechartview:percentagechartview:0.3.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/685726063909f34374a5dcc01740c2b3/percentagechartview-0.3.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/685726063909f34374a5dcc01740c2b3/percentagechartview-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/685726063909f34374a5dcc01740c2b3/percentagechartview-0.3.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.ramijemli.percentagechartview/percentagechartview/0.3.1/214ba94536dc95e9cc3c0f557ed245c26f992bb0/percentagechartview-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.ramijemli.percentagechartview/percentagechartview/0.3.1/bd512c85fbce860d4c2897e11f28e7f34407127/percentagechartview-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

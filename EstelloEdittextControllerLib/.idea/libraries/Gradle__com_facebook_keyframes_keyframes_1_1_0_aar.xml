@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.keyframes:keyframes:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/befe8a8428fabeb698ae46fe001c6058/keyframes-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/befe8a8428fabeb698ae46fe001c6058/keyframes-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.facebook.keyframes/keyframes/1.1.0/b171e49bac487263343a038e59d4c6e41b2f4352/keyframes-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.facebook.keyframes/keyframes/1.1.0/aacb684d89d9f4226783de51ea9ca63552e63d31/keyframes-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

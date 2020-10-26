@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.henryblue.mxvideoplayer:xvideoplayer:1.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/9e7dabd440b6976287e5e45394909bef/jetified-xvideoplayer-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/9e7dabd440b6976287e5e45394909bef/jetified-xvideoplayer-1.1.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.henryblue.mxvideoplayer/xvideoplayer/1.1.6/1527e2282bc4b89e0f2758a7f17af0ab9675a77c/xvideoplayer-1.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/com.henryblue.mxvideoplayer/xvideoplayer/1.1.6/3316ac2ee406b56f07156417d0bc6fcb651d1666/xvideoplayer-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

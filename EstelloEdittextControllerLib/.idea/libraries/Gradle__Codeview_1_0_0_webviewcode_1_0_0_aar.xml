@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: Codeview-1.0.0:webviewcode:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/6338f874df409ee2af1b3ee83fc2604f/webviewcode-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/FamilyLife/.gradle/caches/transforms-2/files-2.1/6338f874df409ee2af1b3ee83fc2604f/webviewcode-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/Codeview-1.0.0/webviewcode/1.0.0/f823bf50ecdc90921919ee88067ed74c6947bdd8/webviewcode-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/FamilyLife/.gradle/caches/modules-2/files-2.1/Codeview-1.0.0/webviewcode/1.0.0/ac1da997da4c02a94f386ea795386c1319eaedec/webviewcode-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
